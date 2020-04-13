@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participants
+title: Members
 ---
 
 - [Nicole Hughes (Stanford)](http://shc.stanford.edu/people/mellon-fellowship-scholars-humanities)
