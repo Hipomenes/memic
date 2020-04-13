@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MEMIC Participants
+title: Participants
 ---
 
 - [Nicole Hughes (Stanford)](http://shc.stanford.edu/people/mellon-fellowship-scholars-humanities)
