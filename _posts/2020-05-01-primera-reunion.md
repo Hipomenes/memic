@@ -3,6 +3,7 @@ layout: post
 title: Primera reunión 
 subtitle: Agenda de la reunión
 bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*6Z5_zwFcFYvhAcp2g7aJ1g.jpeg%3F-i2&f=1&nofb=1
+tags: meetings
 ---
 
 # Agenda de la reunión. 1 de mayo de 2020  
