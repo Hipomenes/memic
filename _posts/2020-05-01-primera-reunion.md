@@ -2,7 +2,7 @@
 layout: post
 title: Primera reunión 
 subtitle: Agenda de la reunión
-bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*6Z5_zwFcFYvhAcp2g7aJ1g.jpeg%3F-i2&f=1&nofb=1
+bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1592294%2Faztec-warriors.jpg&f=1&nofb=1
 tags: meetings
 ---
 
