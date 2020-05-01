@@ -6,8 +6,9 @@ bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd.ibtimes.co
 tags: meetings
 ---
 
+¡Bienvenidos!
 
-## 1. ACTIVIDADES Y PROYECTOS, 2020-2021
+## 1. Actividades y proyectos (2020-2021)
 
 -  Workshops. Definir y proponer formatos de los talleres virtuales, temas, posibles
 invitados y la frecuencia.
@@ -16,7 +17,7 @@ académico 2020-21.
 - Página web de MEMIC. Voluntarios para montar una página web MEMIC en
 GitHub que nos sirva de referencia para el grupo.
 
-## 2. TOOLBOX
+## 2. Toolbox
 
 - ¿Qué más podemos hacer juntos? En este sentido mi idea es aprovechar toda
 forma de networking.
@@ -29,7 +30,7 @@ Especialmente con fuentes primarias compartidas (esto es menor)
 para soporte colectivo de referencia. Pueden estar catalogadas por área. (esto es
 mayor) 
 
-## 3. MANAGEMENT
+## 3. Managment
 
 - Las responsabilidades y división de las tareas son rotatorias. Lo principal es la
 organización de los talleres, que sería la actividad principal del grupo. Por lo
