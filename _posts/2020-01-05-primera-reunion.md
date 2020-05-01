@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primera Reunión 
+title: Primera reunión 
 subtitle: Agenda de la reunión
 ---
 
