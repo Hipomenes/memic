@@ -6,8 +6,7 @@ bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1
 tags: meetings
 ---
 
-# Agenda de la reunión. 1 de mayo de 2020  
- 
+
 ## 1. ACTIVIDADES Y PROYECTOS, 2020-2021
 
 -  Workshops. Definir y proponer formatos de los talleres virtuales, temas, posibles
