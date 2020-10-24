@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About MEMIC
+subtitle: 
 ---
 
 Welcome to **MEMIC**: an interdisciplinary research group at the nexus of Medieval and Early Modern Iberian Studies. At the core of our research group are two questions: the technologies and materialities of cultures and texts; and the entanglements of cultures that came into contact in the Iberian worlds in Europe, Africa, the Americas, and Asia. Research questions cluster around translation and circulation, technology, literary theory, religion, race, memory, material culture, environmental humanities, and the world-making capacity of literature and culture. Methodologically, it engages with global studies, book history, translation studies, critical theory, philosophy, and anthropology... 
