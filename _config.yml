@@ -22,8 +22,8 @@ description: Medieval & Early Modern Iberian Cultures
 navbar-links:
   About: "aboutus"
   Activities:
-    - Workshops: "http://deanattali.com/beautiful-jekyll/"
-    - Colloquia: "http://www.markdowntutorial.com/"
+    - Workshops: ""
+    - Colloquia: "      "
   Calendar: "calendar"
   Members: "members"
 
@@ -69,10 +69,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "Juanxgm@gmail.com"
+  facebook: memic
+  twitter: memic
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -90,7 +89,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
