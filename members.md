@@ -4,19 +4,17 @@ title: Members
 ---
 
 - Alexandra Vialla Mendez (Columbia)
-- Lexie Cook (Columbia)
-- Miguel Ibañez Aristondo (Vilanova)
-- Nicole Parisina Basile (Columbia)
-- Juan Carlos G Mantilla (Columbia)
+- Lexie Cook (Columbia University)
+- Miguel Ibañez Aristondo (Villanova University)
+- Nicole Parisina Basile (Columbia University)
+- Juan Carlos G Mantilla (Columbia University)
 - David H. Colmenares (Boston University)
-- Juan Camilo Rojas (Columbia)
+- Juan Camilo Rojas (Columbia University)
 - Javier Patiño Loira (UCLA)
-- Leonardo Velloso Lyons (Stanford)
-- Mariana Cecilia Velasquez (Reno University)
-- Marta Albala Pelgrin (CalPoly Pomona) 
+- Leonardo Velloso Lyons (Stanford University)
+- Mariana Cecilia Velasquez (Reno University) 
+- Marta Albala Pelgrin (Cal Poly Pomona) 
 - Miguel Martínez (Chicago University) 
 - Mariana Meneses Muñoz (Universidad Nova de Lisboa)
 - Noel Blanco Mourelle (Chicago University)
 - Nicole Hughes (Stanford University) 
-
-
