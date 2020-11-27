@@ -10,6 +10,8 @@ tags: meetings
 
 ## 1. Actividades y proyectos (2020-2021)
 
+Ese es *Juan Carlos* y este es **MIGUEL**.
+
 -  Workshops. Definir y proponer formatos de los talleres virtuales, temas, posibles
 invitados y la frecuencia.
 - Simposio. Ideas sobre la organización de un simposio hacia final del año
