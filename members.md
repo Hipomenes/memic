@@ -3,9 +3,20 @@ layout: page
 title: Members
 ---
 
-- [Nicole Hughes (Stanford)](http://shc.stanford.edu/people/mellon-fellowship-scholars-humanities)
-- [Miguel Aristondo (Villanova)](https://www1.villanova.edu/villanova/artsci/romancelanglit/academics/spanishstudies/faculty/biodetail.html?mail=miguel.ibanezaristondo@villanova.edu&xsl=bio_long)
-- [David H. Colmenares (Boston University)](http://www.bu.edu/rs/profile/18268/)
-- [Juan Carlos G Mantilla (Columbia)]()
+- Alexandra Vialla Mendez (Columbia)
+- Lexie Cook (Columbia)
+- Miguel Ibañez Aristondo (Vilanova)
+- Nicole Parisina Basile (Columbia)
+- Juan Carlos G Mantilla (Columbia)
+- David H. Colmenares (Boston University)
+- Juan Camilo Rojas (Columbia)
+- Javier Patiño Loira (UCLA)
+- Leonardo Velloso Lyons (Stanford)
+- Mariana Cecilia Velasquez (Reno University)
+- Marta Albala Pelgrin (CalPoly Pomona) 
+- Miguel Martínez (Chicago University) 
+- Mariana Meneses Muñoz (Universidad Nova de Lisboa)
+- Noel Blanco Mourelle (Chicago University)
+- Nicole Hughes (Stanford University) 
 
 
